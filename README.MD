@@ -1,5 +1,8 @@
 #### Setup
 
+#### Deployed On Heroku
+- https://jobs-api-76.herokuapp.com/
+
 ```bash
 npm install && npm start
 ```
